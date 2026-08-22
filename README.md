@@ -2,7 +2,7 @@
 
 ## Project Page
 
-https://github.com/taw137470-maker/HTMLPROJECT/blob/main/project.html
+https://taw137470-maker.github.io/HTMLPROJECT/home.html
 
 ## Live Demo
 
